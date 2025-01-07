@@ -1,0 +1,7 @@
+{
+	"coin":"代币标识",
+	"network":"代币所在网络",
+	"apiKey":"apiKey",
+	"secretKey":"secretKey",
+	"proxy": "socks5://IP账号:IP密码@IP:端口"
+}
